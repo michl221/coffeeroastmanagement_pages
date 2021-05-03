@@ -27,6 +27,7 @@ search: true
 search_full_content: true
 search_provider: algolia
 repository: michl221/coffeeroastmanagement
+google_site_verification: "_sKY1psd6UIXzZW2lGFUyy6Y543XOMTT-i1ZQSzBqUM"
 
 # Build settings
 markdown: kramdown
