@@ -18,7 +18,7 @@ feature_row:
   - #image_path: /assets/images/mm-customizable-feature.png
     #alt: "selfhosted"
     title: "Self-hosted"
-    excerpt: "Run it in your personal network or on you computer."
+    excerpt: "Run it in your personal network or on your computer."
     #url: "/docs/configuration/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"
@@ -32,7 +32,7 @@ feature_row:
   - #image_path: /assets/images/mm-free-feature.png
     #alt: "roastanalyze"
     title: "Roast & analyze"
-    excerpt: "Create roasts, import Artisan roast profile and analyze the results"
+    excerpt: "Create roasts, import Artisan roast profiles and analyze them."
     #url: "/docs/roasts/"
     #btn_class: "btn--primary"
     #btn_label: "Learn more"      
